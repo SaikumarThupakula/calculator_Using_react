@@ -12,7 +12,7 @@ body{
     margin-bottom: 20px;
 }
 .container{
-    display: grid;
+    display: flex;
     width: 400px;
     height:auto;
     border:1px solid black;
